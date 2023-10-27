@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.1](https://github.com/arinanto/nestjs-plugins/compare/@arinanto/nestjs-nats-jetstream-transport@2.1.1-pre.0...@arinanto/nestjs-nats-jetstream-transport@2.1.1) (2023-10-27)
+
+**Note:** Version bump only for package @arinanto/nestjs-nats-jetstream-transport
+
+
+
+
+
 ## [2.1.1-pre.0](https://github.com/arinanto/nestjs-plugins/compare/@arinanto/nestjs-nats-jetstream-transport@2.1.0...@arinanto/nestjs-nats-jetstream-transport@2.1.1-pre.0) (2023-10-27)
 
 **Note:** Version bump only for package @arinanto/nestjs-nats-jetstream-transport
