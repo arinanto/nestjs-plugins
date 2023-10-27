@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.3.0-pre.0 (2023-10-27)
+
+
+### Bug Fixes
+
+* :bug: NatsStreamConfig is not exposed, prevents stream configuration [#35](https://github.com/arinanto/nestjs-plugins/issues/35) ([190a711](https://github.com/arinanto/nestjs-plugins/commit/190a71148563f1b173c0a10fcc3e68133dfab233))
+* relative path ([4d03148](https://github.com/arinanto/nestjs-plugins/commit/4d03148b77315eb790d4ddafed64b0516fd278b7))
+
+
+### Features
+
+* :boom: removed old client ([dba3250](https://github.com/arinanto/nestjs-plugins/commit/dba32501f08862f4b5d52979dd5830d55012538b))
+
+
+
+
+
 ## [0.2.11-pre.0](https://github.com/Redningsselskapet/nestjs-plugins/compare/nats-publisher@0.2.10...nats-publisher@0.2.11-pre.0) (2023-07-13)
 
 **Note:** Version bump only for package nats-publisher

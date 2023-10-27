@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.13-pre.0 (2023-10-27)
+
+
+### Bug Fixes
+
+* :bug: NatsStreamConfig is not exposed, prevents stream configuration [#35](https://github.com/arinanto/nestjs-plugins/issues/35) ([190a711](https://github.com/arinanto/nestjs-plugins/commit/190a71148563f1b173c0a10fcc3e68133dfab233))
+* relative path ([4d03148](https://github.com/arinanto/nestjs-plugins/commit/4d03148b77315eb790d4ddafed64b0516fd278b7))
+
+
+
+
+
 ## [0.1.12-pre.0](https://github.com/Redningsselskapet/nestjs-plugins/compare/nats-listener@0.1.11...nats-listener@0.1.12-pre.0) (2023-07-13)
 
 **Note:** Version bump only for package nats-listener
