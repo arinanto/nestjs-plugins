@@ -1,6 +1,6 @@
 {
   "name": "@arinanto/nestjs-nats-jetstream-transport",
-  "version": "2.1.2",
+  "version": "2.2.6",
   "description": "Nats JetStream Transport for NestJS",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -35,11 +35,7 @@
   "author": "Bernt Anker [bernt.anker@gmail.com]",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "nats": "^2.19.0",
-=======
-    "nats": "^2.6.1",
->>>>>>> de0f27c (build: fix circular npm dependency)
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.4.0"
   },
